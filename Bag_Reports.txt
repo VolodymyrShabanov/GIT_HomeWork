@@ -1,0 +1,10 @@
+Date
+Severity
+Environment
+Title
+Steps
+Expected Result
+Actual Result
+Link
+License
+Role
